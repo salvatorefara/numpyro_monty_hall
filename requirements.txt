@@ -1,0 +1,4 @@
+numpyro==0.10.0
+ipywidgets==7.7.1
+funsor==0.4.3
+graphviz==0.20.1
