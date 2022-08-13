@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  jupyter:
+    image: numpyro_jupyterlab
+    ports:
+      - 8888:8888
+    volumes:
+      - ./project:/project
+volumes:
+  my_volume:
+    external: true
