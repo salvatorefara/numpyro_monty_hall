@@ -1,6 +1,6 @@
 # Numpyro Monty Hall
 
-Modelling the classic Monty Hall Problem using NumPyro. 
+Generative models of the classic Monty Hall Problem using NumPyro. 
 
 Build image
 ```
